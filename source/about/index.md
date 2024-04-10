@@ -5,7 +5,7 @@ date: 2024-04-10 21:32:34
 
 # 关于我
 
-大家好，我是卫晓强，一名热爱技术的软件开发工程师。我对[前端开发]特别感兴趣。
+大家好，我是卫晓强，一名热爱技术的软件开发工程师。我对前端开发特别感兴趣。
 
 <img src="/images/logo.jpg" alt="你的图片描述" style="width: 200px; height: auto; border-radius: 10px;"/>
 
@@ -36,8 +36,8 @@ date: 2024-04-10 21:32:34
 
 ## 联系我
 
-- 邮箱：[1839992361@qq.com]
-- GitHub：[https://github.com/w1839992361]
-- LinkedIn：[https://vercel.aqiang.asia/]
+- 邮箱：1839992361@qq.com
+- GitHub：https://github.com/w1839992361
+- LinkedIn：https://vercel.aqiang.asia/
 
 感谢你访问我的个人页面！我期待与你交流分享技术经验。
