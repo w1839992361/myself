@@ -13,7 +13,7 @@ date: 2024-04-10 21:32:34
 ## 技术栈
 
 - **前端技术**: Vue, JavaScript, TypeScript, CSS, HTML, ElementUI, Uni-App, Echarts, 小程序, Bootstrap,  
-- **后端技术**: Node.js, Laravel, PHP
+- **后端技术**: Node.js, PHP(Laravel), 
 - **数据库**: MySQL
 - **其他**: Docker, Git, Linux, 
 
